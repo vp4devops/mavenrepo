@@ -1,2 +1,2 @@
-# mavenrepo
+# mavenrepo -- for RND
 test maven repo
